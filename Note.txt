@@ -1,0 +1,6 @@
+Creating a CSS-only directionally aware button (https://www.youtube.com/watch?v=e3w9liPXSi4)
+
+https://codepen.io/kevinpowell/pen/dygZEMj
+https://github.com/Annie-Huang/css-only-directionally-aware-button
+
+---------------------------------------------------------------------------
